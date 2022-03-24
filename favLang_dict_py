@@ -1,0 +1,13 @@
+'''Create an empty dictionary. Allow 4 friends to enter their favourite language as values and use keys as their names.Assume that tha names are unique. '''
+favelang = {}
+a = input("Enter your name Ali\n")
+b = input("Enter your name Ahmed\n")
+c = input("Enter your name Alia\n")
+d = input("Enter your name Amal\n")
+
+favelang['Ali'] = a
+favelang['Ahmed'] = b
+favelang['Alia'] = c
+favelang['Amal'] = d
+
+print(favelang)
