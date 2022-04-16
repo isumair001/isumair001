@@ -1,5 +1,4 @@
 from math import factorial
-from re import I
 
 
 #factorial n = n * factorial(n-1)
